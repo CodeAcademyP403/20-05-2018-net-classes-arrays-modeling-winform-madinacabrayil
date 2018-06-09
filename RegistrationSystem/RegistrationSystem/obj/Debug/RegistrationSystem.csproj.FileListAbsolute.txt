@@ -1,0 +1,11 @@
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.exe.config
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.exe
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.pdb
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csprojAssemblyReference.cache
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.Properties.Resources.resources
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csproj.GenerateResource.cache
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.exe
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.pdb
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.Login.resources
+C:\Users\MadiCabrail\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.SignUp.resources
